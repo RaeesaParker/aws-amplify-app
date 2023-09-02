@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "amplifyapp00b2605c": {}
+      },
+      "function": {
+        "cryptoFunction": {}
       }
     }
   }
